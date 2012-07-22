@@ -1,0 +1,32 @@
+/* General
+------------------------- */
+.breadcrumb a, .breadcrumb a:visited, a:link, a:active, a:hover { color:#0033cc;}
+a:visited {color: #800000;}
+
+/* Header
+------------------------- */
+#page-header-wrapper {background:#5B9D39 url([[pix:theme|logo]]) no-repeat left top; height:120px; margin-left:0;}
+#page-header h1.headermain {margin:58px 0 0 128px;text-shadow:2px 2px 0 #45782B;}
+div.headermenu {margin-top:8px; border:1px solid #aaa; background-color:#71BE4B; padding:0px 8px 8px 0; height:96px;}
+
+/* Blocks
+------------------------- */
+.block .header {background-color:#8FCC71;}
+.block .header h2 {background:transparent none; color:#000; text-shadow:0 0 0 transparent; margin-bottom:0;}
+.block .content {overflow-x:auto;background-color:#E8F4E1;}
+#page-content #region-main-box .block-region .region-content {padding-top:0;}
+
+/* Page layout
+------------------------- */
+#page-content-wrapper {margin:10px 20px;}
+#page-content {max-width:1280px; margin:0 auto; float:none;}
+#page-content #region-pre {background:transparent none; padding-right:14px;}
+#page-content #region-post {right:0; background:transparent none;}
+#page-content #region-main {margin-left:406px; padding:0 35px 0 45px;}
+#region-main-box {background:transparent url([[pix:theme|border]]) repeat-y 14px top;}
+#page-content #region-post-box {border-left:1px solid #aaa; margin-left:-434px; padding-left:13px;}
+.side-pre-only #page-content #region-post-box {margin-left:-238px; border-left:0px none;}
+.side-pre-only #page-content #region-pre {left:14px;}
+.content-only #page-content #region-main-box,
+.side-post-only #page-content #region-main-box {background:transparent none;}
+.content-only #page-content #region-main {padding-left:0;}
