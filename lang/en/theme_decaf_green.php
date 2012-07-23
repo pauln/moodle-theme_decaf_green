@@ -16,9 +16,9 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'theme_uc_decaf', language 'en', branch 'MOODLE_20_STABLE'
+ * Strings for component 'theme_decaf_green', language 'en', branch 'MOODLE_20_STABLE'
  *
- * @package   theme_decaf-green
+ * @package   theme_decaf_green
  * @copyright 2012 Paul Nicholls  {@link http://www.canterbury.ac.nz}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  * @credits 
